@@ -2,19 +2,21 @@ Hello World.
 
 My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher in the Artificial Intelligence field.
 
-<table>
-  <tr>
-    <th>
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="55%"/><br />
-    <figcaption>Here I am programming...</figcaption>
-    </th>
-    <th>
-      <img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/><br />
-      <figcaption>And here I am programming too</figcaption>
-    </th>
-  </tr>
-<table>
-
+<div align="center">
+  <table>
+    <tr>
+      <th>
+      <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="55%"/><br />
+      <figcaption>Here I am programming...</figcaption>
+      </th>
+      <th>
+        <img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/><br />
+        <figcaption>And here I am programming too</figcaption>
+      </th>
+    </tr>
+  <table>
+</div>
+    
 You can find me on other social networks:
 
 <div align="center">
