@@ -1,6 +1,6 @@
 Hello World. 
 
-My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher in the Arttificial Intelligence field.
+My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher in the Artificial Intelligence field.
 
 <table>
   <tr>
