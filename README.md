@@ -17,13 +17,15 @@ My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher i
 
 You can find me on other social networks:
 
-<a href="https://www.linkedin.com/in/jefmenegazzo/">
-  <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
-</a>
+<p  align="center">
+  <a align="center" href="https://www.linkedin.com/in/jefmenegazzo/">
+    <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
+  </a>
+  </p>
 
 <br />
 
-<p  align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true" alt="github stats"/></br>
 </p>
 
