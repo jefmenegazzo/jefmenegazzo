@@ -1,16 +1,29 @@
-### Hi there 👋
+Hello World. My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher in the Arttificial Intelligence field.
 
-<!--
-**jefmenegazzo/jefmenegazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <th>
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /><br />
+    <figcaption>Here I am programming...</figcaption>
+    </th>
+    <th>
+      <img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" /><br />
+      <figcaption>And here I am programming too</figcaption>
+    </th>
+  </tr>
+<table>
 
-Here are some ideas to get you started:
+You can find me on other social networks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/jefmenegazzo/">
+  <img align="left" alt="LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" onmouseover="this.src='https://i.imgur.com/yPn3oSL.png'" onmouseout="this.src='https://img.icons8.com/color/48/000000/linkedin.png'" />
+</a>
+
+<br />
+
+<p  align="center">
+
+![Jeferson Menegazzo's github stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true)
+
+</p>
+
