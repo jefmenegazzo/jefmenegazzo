@@ -1,13 +1,15 @@
-Hello World. My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher in the Arttificial Intelligence field.
+Hello World. 
+
+My name is Jeferson Menegazzo. I am a web and mobile developer, and researcher in the Arttificial Intelligence field.
 
 <table>
   <tr>
     <th>
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /><br />
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="55%"/><br />
     <figcaption>Here I am programming...</figcaption>
     </th>
     <th>
-      <img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" /><br />
+      <img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/><br />
       <figcaption>And here I am programming too</figcaption>
     </th>
   </tr>
@@ -22,8 +24,6 @@ You can find me on other social networks:
 <br />
 
 <p  align="center">
-
-![Jeferson Menegazzo's github stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true" alt="github stats"/></br>
 </p>
 
