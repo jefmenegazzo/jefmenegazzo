@@ -22,7 +22,11 @@ You can find me on other social networks:
 <div align="center">
 
   <a href="https://www.linkedin.com/in/jefmenegazzo/">
-    <img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" width="48px"/>
+    <img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" width="48px" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://www.kaggle.com/jefmenegazzo">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168473.png" width="48px"/>
   </a>
   
   <a href="https://www.researchgate.net/profile/Jeferson_Menegazzo">
