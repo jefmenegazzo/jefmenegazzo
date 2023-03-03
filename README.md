@@ -1,4 +1,4 @@
-Hello World. 
+Hello World!
 
 My name is Jeferson Menegazzo. I am a Machine Learning and Artificial Intelligence Engineer, as well as a Senior Software Engineer.
 
@@ -21,6 +21,10 @@ You can find me on the following social networks:
 
 <div align="center">
 
+  <a href="https://www.upwork.com/freelancers/~0184d7791e88831fa7">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png" width="48px" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jefmenegazzo/">
     <img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" width="48px" alt="LinkedIn" title="LinkedIn"/>
   </a>
@@ -45,7 +49,27 @@ You can find me on the following social networks:
 
 <br />
 
-![Jeferson Menegazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true&count_private=true&include_all_commits=true)
+Help me keep my open-source projects active by contributing sponsorships and donations through the links below.
+    
+<div align="center">
 
+ <br />
+  
+<a href="https://github.com/sponsors/jefmenegazzo">
+    <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Github%20Sponsors&logo=github&style=for-the-badge&color=blue&logoColor=white&link=https://github.com/sponsors/jefmenegazzo" alt="Github Sponsors"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6">
+    <img src="https://img.shields.io/static/v1?label=Donate%20with&message=Paypal&logo=paypal&style=for-the-badge&color=blue&logoColor=white&link=https://www.paypal.com/donate/?hosted_button_id=QA7BLD3X842W6" alt="PayPal Sponsors"/>
+</a>
+
+</div>
+  
+ <br />
+    
+My Github stats:
+  
+![Jeferson Menegazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true&count_private=true&include_all_commits=true)
+ 
 [![Jeferson Menegazzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmenegazzo&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
