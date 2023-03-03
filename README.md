@@ -22,7 +22,7 @@ You can find me on the following social networks:
 <div align="center">
 
   <a href="https://www.upwork.com/freelancers/~0184d7791e88831fa7">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png" width="48px" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png" width="48px" alt="UpWork" title="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jefmenegazzo/">
