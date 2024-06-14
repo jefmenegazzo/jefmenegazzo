@@ -2,7 +2,7 @@ Hello World!
 
 My name is Jeferson Menegazzo. I am a Machine Learning and Artificial Intelligence Engineer, as well as a Senior Software Engineer.
 
-<div align="center">
+<!--div align="center">
   <table>
     <tr>
       <th>
@@ -15,7 +15,7 @@ My name is Jeferson Menegazzo. I am a Machine Learning and Artificial Intelligen
       </th>
     </tr>
   <table>
-</div>
+</div-->
     
 You can find me on the following social networks:
 
