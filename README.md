@@ -69,7 +69,9 @@ Help me keep my open-source projects active by contributing sponsorships and don
     
 My Github stats:
   
-![Jeferson Menegazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true&count_private=true&include_all_commits=true)
- 
-[![Jeferson Menegazzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmenegazzo&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Jeferson Menegazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Jeferson Menegazzo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefmenegazzo&layout=compact)
+
+![Jeferson Menegazzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmenegazzo&layout=compact)
 
