@@ -75,3 +75,4 @@ My Github stats:
 
 ![Jeferson Menegazzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmenegazzo&layout=compact)
 
+![Jeferson Menegazzo's GitHub Streak](https://streak-stats.demolab.com/?user=jefmenegazzo)
