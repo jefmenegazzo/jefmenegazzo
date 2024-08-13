@@ -1,6 +1,6 @@
-Hello World!
+🌎 Hello World!
 
-My name is Jeferson Menegazzo. I am a Machine Learning and Artificial Intelligence Engineer, as well as a Senior Software Engineer.
+My name is Jeferson Menegazzo, and I am a Machine Learning Engineer and Senior Software Engineer. You can find me on the following social networks:
 
 <!--div align="center">
   <table>
@@ -15,18 +15,16 @@ My name is Jeferson Menegazzo. I am a Machine Learning and Artificial Intelligen
       </th>
     </tr>
   <table>
-</div-->
-    
-You can find me on the following social networks:
+</div-->  
 
 <div align="center">
 
-  <a href="https://www.upwork.com/freelancers/~0184d7791e88831fa7">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png" width="48px" alt="UpWork" title="UpWork"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jefmenegazzo/">
     <img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" width="48px" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0184d7791e88831fa7">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png" width="48px" alt="UpWork" title="UpWork"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/jefmenegazzo">
@@ -49,6 +47,19 @@ You can find me on the following social networks:
 
 <br />
 
+<div align="center">
+
+![Jeferson Menegazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<!-- ![Jeferson Menegazzo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefmenegazzo&layout=compact&theme=transparent) -->
+
+![Jeferson Menegazzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmenegazzo&layout=compact&theme=transparent&langs_count=20)
+
+![Jeferson Menegazzo's GitHub Streak](https://streak-stats.demolab.com/?user=jefmenegazzo&theme=transparent)
+</div>
+
+<br />
+
 Help me keep my open-source projects active by contributing sponsorships and donations through the links below.
     
 <div align="center">
@@ -64,15 +75,3 @@ Help me keep my open-source projects active by contributing sponsorships and don
 </a>
 
 </div>
-  
- <br />
-    
-My Github stats:
-  
-![Jeferson Menegazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefmenegazzo&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Jeferson Menegazzo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefmenegazzo&layout=compact)
-
-![Jeferson Menegazzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmenegazzo&layout=compact)
-
-![Jeferson Menegazzo's GitHub Streak](https://streak-stats.demolab.com/?user=jefmenegazzo)
